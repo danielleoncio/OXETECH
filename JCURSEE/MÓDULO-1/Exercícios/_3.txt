@@ -1,0 +1,4 @@
+	Estruturas condicionais verificam se uma ou mais circunstâncias são atendidas para executar uma ou mais tarefas. EXEMPLO:
+	Se estiver um dia de Sol
+		eu vou para praia
+	senão ficarei em casa e assistirei Netflix.

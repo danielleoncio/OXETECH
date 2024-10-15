@@ -1,3 +1,4 @@
+package OXETECH.JCURSEE.Aulas;
 import java.util.Scanner;
 
 public  class  CalcularIMC {

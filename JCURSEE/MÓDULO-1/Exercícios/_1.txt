@@ -1,0 +1,1 @@
+A função principal do compilador em Java é verificar os erros do código e transduzir o código original para bytecode.
