@@ -1,0 +1,5 @@
+custo = float(input("Digite o valor do produto: "))
+querer = str(input("Voce deseja aplicar desconto? digite S para sim : ")).strip()
+desconto = float(input("Digite o desconto: ")) if (querer == 's') else (0.0)
+custofinal = (custo - ((desconto/100)*custo)) if (desconto <= 5)  else (custo)
+print(f"Custo do produto é : R${custofinal}")

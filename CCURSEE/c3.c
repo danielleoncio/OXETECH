@@ -14,7 +14,7 @@ int main(){
 
     printf("%c\n", nome[6]);
 
-    
+    char a = 'a';
 
  printf("%d", aux);
 

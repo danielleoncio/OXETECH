@@ -1,0 +1,1 @@
+dicionario = {'nome' : 'Lapis' , 'sorry' : 4}
